@@ -2,7 +2,11 @@ body
 {
     text-align: center;
     font-family: courier;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     font-size: 16px;
     margin: 0;
     padding:0;
